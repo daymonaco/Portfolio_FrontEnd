@@ -1,0 +1,13 @@
+{
+	"header": [{
+		"name": "DaianaAilin Monaco",
+		"banner": "/assets/h_green_daisies.jpg",
+		"alt": "Margaritas verdes"
+	}],
+	"experience-n-education": [{
+		"school": "Universidad de Buenos Aires",
+		"title": "Licenciatura en Comunicación Social",
+		"start": "2015",
+		"end": "2023"
+	}]
+}

@@ -1,0 +1,34 @@
+<div class="third-card" id="experience-n-education">
+    <div id="experience">
+        <h3>Experiencia laboral</h3>
+    </div>
+    <div id="education">
+        <h3>Educación</h3>
+        <ul class="items-list">
+            <li *ngFor="let educacion of educationList">
+                <div class="data-container">
+                    <a href="#">
+                        <div class="logo-image-container">
+                            <img
+                                class="logo-image"
+                                src=""
+                            />
+                        </div>
+                        <div class="list-info">
+                            <div>
+                                <h3>{{educationList.school}}</h3>
+                                <p>{{educationList.title}}</p>
+                                <p>{{educationList.start}}-{{educationList.end}}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="data-control">
+                    <div class="btn-edit">
+                        <a href="#" class="btn-right"><i class="fa fa-pen"></i></a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
