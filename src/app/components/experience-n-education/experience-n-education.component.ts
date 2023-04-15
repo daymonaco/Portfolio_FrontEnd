@@ -7,7 +7,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   styleUrls: ['./experience-n-education.component.css']
 })
 export class ExperienceNEducationComponent implements OnInit {
-  educationList:any;
+  educationList: any;
   constructor(private datosPortfolio:PortfolioService) { }
 
   ngOnInit(): void {
