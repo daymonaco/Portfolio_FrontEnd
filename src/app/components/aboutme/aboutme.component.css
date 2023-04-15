@@ -1,0 +1,20 @@
+h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+    font-family: 'Shrikhand', cursive;
+}
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+h3 {
+    font-size: 1em;
+    font-weight: 200;
+}
+p {
+    font-size: 1em;
+}
+img {
+    width: 20%;
+}
