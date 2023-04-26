@@ -20,15 +20,15 @@
     "@angular/router": "~12.2.0",
     "@fortawesome/fontawesome-free": "^6.4.0",
     "ajv": "^6.12.6",
-    "bootstrap": "^4.5.3",
-    "jquery": "^2.2.4",
+    "bootstrap": "^5.3.0-alpha3",
+    "jquery": "^3.6.4",
     "popper.js": "^1.16.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~12.2.18",
+    "@angular-devkit/build-angular": "^15.2.7",
     "@angular/cli": "~12.2.18",
     "@angular/compiler-cli": "~12.2.0",
     "@types/jasmine": "~3.8.0",
